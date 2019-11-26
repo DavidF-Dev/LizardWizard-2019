@@ -11,9 +11,11 @@ for use in puzzle solving.
 
 All technical details and design choices are outlined in the **Technical Design Document**.
 
-!trailer here
+**A Lizard's Tale Trailer - [LINK](https://youtu.be/rnmI0GfieSc)**<br>
+[![Alt text](https://img.youtube.com/vi/rnmI0GfieSc/0.jpg)](https://www.youtube.com/watch?v=rnmI0GfieSc)
 
-!demo vid here
+**A Lizard's Tale Dev-Talk - [LINK](https://youtu.be/gu_07QpIxq4)**<br>
+[![Alt text](https://img.youtube.com/vi/gu_07QpIxq4/0.jpg)](https://www.youtube.com/watch?v=gu_07QpIxq4)
 
 ## Project Brief
 ### Overview
