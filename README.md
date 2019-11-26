@@ -63,7 +63,7 @@ that I can meet the technical needs of building an entire game in a proper group
 credit this achievement to participating in game jams throughout the year which improved my
 abilities and team skills and the documentations I completed in previous assessments.<br>
 I have learned a lot programming-wise from this project that I can apply to my future
-individual or group projects.
+individual or group projects. 
 
 ## Credits & Acknowledgements
 ### Design
