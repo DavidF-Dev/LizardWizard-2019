@@ -80,9 +80,7 @@ Soundtrack provided under Creative Commons.
 - Song title: Loyalty.
 - Artist: King Gizzard and the Lizard Wizard.
 
-</br></br></br></br>
-<img src="ss.png" width=60%/>
-<br><br>
+<br><br><br><br>
 <img src="aie_logo_clr.jpg" alt="Academy of Interactive Entertainment" width=250px height=250px/><br>
 Academy of Interactive Entertainment Canberra<br>
 Bachelor of Games and Virtual Worlds
