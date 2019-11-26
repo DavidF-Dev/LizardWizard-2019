@@ -42,26 +42,26 @@ I was the sole programmer in the group so I contributed all of the functionality
 wasn’t sure initially if I would be able to meet all the tasks that were expected of me. This
 was emphasised by a severe over-scoping near the start of pre-production. I felt very
 overwhelmed and under-prepared to implement all the features. Luckily we drastically
-reduced our scope and removed many unnecessary mechanics.
+reduced our scope and removed many unnecessary mechanics.<br>
 During development, I spent a lot of time designing systems that would make adding
 features easier for me and also easier for designers to implement. For example, all sound
 effects can be played through the GameController singleton, and can even be played without
 an AudioSource reference. This makes it significantly easier for me to play sound effects
 from anywhere in the code without needing AudioClip references. Furthermore, the designers
-were able to add sound effects through the Inspector, without needing to touch the code.
+were able to add sound effects through the Inspector, without needing to touch the code.<br>
 I made sure to expose appropriate variables in the Inspector to allow designers to tweak with
 values. I organised groups of variables under headings to reduce clutter in the Inspector.
 I am proud of the systems I programmed, especially the cutscene system - because they are
 reusable and user-friendly. Although, I know it can be improved upon in future projects.
 Some of the code is messy and hacked together. There are public member variables in
-some classes that should be more hidden in a future implementation.
+some classes that should be more hidden in a future implementation.<br>
 I also made sure to communicate with each team member during development to make
 transitioning assets into the project as smooth as possible. For example, understanding how
 certain objects are being animated so I can run the appropriate animations through code.
 Now that the project is over, I feel much more confident in my individual abilities. I now know
 that I can meet the technical needs of building an entire game in a proper group project. I
 credit this achievement to participating in game jams throughout the year which improved my
-abilities and team skills and the documentations I completed in previous assessments.
+abilities and team skills and the documentations I completed in previous assessments.<br>
 I have learned a lot programming-wise from this project that I can apply to my future
 individual or group projects.
 
