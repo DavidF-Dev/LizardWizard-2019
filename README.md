@@ -69,7 +69,7 @@ individual or group projects.
 ### Design
 - Brendan Blue: Lead narrative design
 - Idris Hunt: Lead systems design
-- Christopher Sellect: Lead level design
+- Christopher Selleck: Lead level design
 ### Art
 - Martin Widdowson: Generalist
 - Breanna Fox: Lead environment artist
