@@ -11,6 +11,8 @@ for use in puzzle solving.
 
 All technical details and design choices are outlined in the **Technical Design Document**.
 
+**Download the game on its Itch page: https://alizardstale.itch.io**
+
 **A Lizard's Tale Trailer - [LINK](https://youtu.be/rnmI0GfieSc)**<br>
 [![Alt text](https://img.youtube.com/vi/rnmI0GfieSc/0.jpg)](https://www.youtube.com/watch?v=rnmI0GfieSc)
 
